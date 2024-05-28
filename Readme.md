@@ -1,1 +1,5 @@
-`Developing a trading strategy using unsupervised learning involves leveraging machine learning techniques to identify patterns in historical market data without predefined labels.`
+# Algorithmic_Trading_Machine_Learning
+
+- Project 1 - Unsupervised Learning Trading Strategy
+- Project 2 - Twitter Sentiment Trading Strategy
+- Project 3 - Intraday GARCH Trading Strategy
